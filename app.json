@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e97653bc-5706-4398-aebb-f1c5176526e2"
+      }
+    },
+    "owner": "ui_prince"
   }
 }
